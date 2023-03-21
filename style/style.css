@@ -1,0 +1,33 @@
+
+.jumbotron {
+  background-color: #313131;
+  padding-top: 9rem;
+}
+
+.jumbotron img {
+  filter: grayscale(50%);
+}
+
+#projects {
+  background-color: #313131;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+#about {
+  background-color: #212529;
+}
+
+#contacts {
+  background-color: #212529;
+}
+
+footer {
+  background-color: #263bbf;
+}
+
+.card {
+ background-color : #212529;
+}
